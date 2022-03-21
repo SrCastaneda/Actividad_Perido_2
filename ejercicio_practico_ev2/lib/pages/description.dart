@@ -61,28 +61,6 @@ class _DescriptionPageState extends State<DescriptionPage> {
               ),
             ),
           ),
-
-
-
-
-
-          // Padding(padding: const EdgeInsets.only(left: 30, right: 30, top: 250),
-          // child: Container(
-          //   child: Row(
-          //     mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          //     children: [
-          //       Text(widget.description['description'],
-          //       style: TextStyle(
-          //         color: Colors.black,
-          //         fontSize: 18,
-          //         fontWeight: FontWeight.bold,
-          //       ),)
-          //     ],
-          //   ),
-          // ),
-          // ),
-
-
         ],
       ),
     );
